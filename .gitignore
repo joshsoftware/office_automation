@@ -17,3 +17,8 @@
 /README.rdoc
 config/initializers/secret_token.rb
 config/database.yml
+vendor/engines/employee/test/dummy/README.rdoc
+vendor/engines/employee/test/dummy/config/initializers/secret_token.rb
+vendor/engines/employee/test/dummy/config/mongoid.yml
+vendor/engines/employee/test/dummy/log/*.log
+vendor/engines/employee/test/dummy/tmp

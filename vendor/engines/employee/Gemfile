@@ -12,3 +12,14 @@ gemspec
 
 # To use debugger
 # gem 'debugger'
+
+group :test do
+  gem 'mongoid-rspec'
+end
+
+gem 'mongoid',  git: 'https://github.com/mongoid/mongoid.git'
+
+gem 'bson'
+gem 'bson_ext'
+
+
